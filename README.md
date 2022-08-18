@@ -3,11 +3,11 @@
 En este repositorio se encuentra una estación climática, trasmitiendo datos de temperatura, humedad, calidad del aire e índice UV obtenidos mediante API's de Open Weather y un sensor DHT11 controlador por un microcontrolador ESP32CAM.
 
 ## Elementos a usar
--- ESP32CAM
--- Convertidor FTDI
--- sensor DHT11
--- NodeRed
--- IDE de Arduino acondicionada para ESP32CAM
+- ESP32CAM
+- Convertidor FTDI
+- Sensor DHT11
+- NodeRed
+- IDE de Arduino acondicionada para ESP32CAM
 
 ## Datos obtenidos
 - Datos personales obtenidos por API
