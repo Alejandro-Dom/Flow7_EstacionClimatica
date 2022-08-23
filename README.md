@@ -8,6 +8,7 @@ En este repositorio se encuentra una estación climática, trasmitiendo datos de
 - Sensor DHT11
 - NodeRed
 - IDE de Arduino acondicionada para ESP32CAM
+- Las instrucciones para conectar los elementos se encuentran en el archivo .ino que se encuentra en el repositorio
 
 ## Datos obtenidos
 - Datos personales obtenidos por API
