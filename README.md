@@ -16,3 +16,11 @@ En este repositorio se encuentra una estación climática, trasmitiendo datos de
 - Gráfica historica personal de temperatura y humedad obtenidos por el sensor DHT11
 - Gráfica historica grupal de temperatura y humedad obtenidos por el sensor DHT11
 
+###Dashboar Final
+
+![](https://github.com/Alejandro-Dom/Flow7_EstacionClimatica/blob/main/Imagenes/Dashboard1)
+
+![](https://github.com/Alejandro-Dom/Flow7_EstacionClimatica/blob/main/Imagenes/Dashboard2)
+
+![](https://github.com/Alejandro-Dom/Flow7_EstacionClimatica/blob/main/Imagenes/Dashboard3)
+
