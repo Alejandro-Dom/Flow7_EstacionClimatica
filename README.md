@@ -1,6 +1,6 @@
 # Flow7_EstacionClimatica
 
-En este repositorio se encuentra una estación climática, trasmitiendo datos de temperatura, humedad, calidad del aire e índice UV obtenidos mediante API's de ![Open Weather](https://api.openweathermap.org/data/2.5/onecall?lat=19.250851&lon=-99.119540&exclude=hourly,daily&appid=4575e0df275d24df6c2c6f0fed8c5d18&units=metric) y un sensor DHT11 controlador por un microcontrolador ESP32CAM.
+En este repositorio se encuentra una estación climática, trasmitiendo datos de temperatura, humedad, calidad del aire e índice UV obtenidos mediante API's de [Open Weather](https://api.openweathermap.org/data/2.5/onecall?lat=19.250851&lon=-99.119540&exclude=hourly,daily&appid=4575e0df275d24df6c2c6f0fed8c5d18&units=metric) y un sensor DHT11 controlador por un microcontrolador ESP32CAM.
 
 ## Elementos a usar
 - ESP32CAM
