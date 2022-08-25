@@ -10,7 +10,6 @@ En este repositorio se encuentra una estación climática, trasmitiendo datos de
 - IDE de Arduino acondicionada para ESP32CAM
 - Las instrucciones para conectar los elementos se encuentran en el archivo .ino que se encuentra en el repositorio
 
-## Software
 
 ## Datos obtenidos
 - Datos personales obtenidos por API
@@ -28,7 +27,7 @@ En este repositorio se encuentra una estación climática, trasmitiendo datos de
 ![](https://github.com/Alejandro-Dom/Flow7_EstacionClimatica/blob/main/Imagenes/Dashboard3)
 
 ### Evidencia en video del Dashboard final
-![](https://github.com/Alejandro-Dom/Flow7_EstacionClimatica/blob/main/Imagenes/Ubuntu20.04LTS-SIC2022%20%5BCorriendo%5D%20-%20Oracle%20VM%20VirtualBox%202022-08-23%2013-29-16.mp4)
+[](https://github.com/Alejandro-Dom/Flow7_EstacionClimatica/blob/main/Imagenes/Ubuntu20.04LTS-SIC2022%20%5BCorriendo%5D%20-%20Oracle%20VM%20VirtualBox%202022-08-23%2013-29-16.mp4)
 
 
 
